@@ -1,4 +1,5 @@
 name: Simon Altschuler
 markdown: redcarpet
 pygments: true
-baseurl: /blog/
+baseurl: /blog
+permalink: :title
